@@ -1,1 +1,1 @@
-# kawereeze_server
+Server for the remittence app
