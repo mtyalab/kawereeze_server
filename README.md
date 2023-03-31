@@ -16,7 +16,7 @@ To run project, follow these steps:
 2. npm start
 
 # Installation
-Don't forget to connect to a running mongodb cluster
+Don't forget to connect to a running mongodb cluster 😊
 
 # Contact
 For the complete version with more functionality, please contact us at mutyabakristaofficia@gmail.com.
